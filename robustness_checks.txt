@@ -1,0 +1,20 @@
+ALL (test attacks=75, test benign=3145)
+  XGB prec  0.771 ± 0.000
+  XGB rec   0.853 ± 0.000
+  XGB AP    0.901 ± 0.000
+  XGB AUC   0.996 ± 0.000
+  IF prec   0.319 ± 0.037
+  IF rec    0.176 ± 0.035
+  IF AP     0.210 ± 0.015
+  IF AUC    0.925 ± 0.003
+ETH-ONLY attacks (test attacks=29, test benign=3145)
+  XGB prec  0.889 ± 0.000
+  XGB rec   0.552 ± 0.000
+  XGB AP    0.798 ± 0.000
+  XGB AUC   0.995 ± 0.000
+  IF prec   0.132 ± 0.011
+  IF rec    0.145 ± 0.014
+  IF AP     0.074 ± 0.006
+  IF AUC    0.897 ± 0.006
+0 flashloanCallbackNum>0: 0.016 verified: 0.637 Anonymous funding: 0.065
+1 flashloanCallbackNum>0: 0.621 verified: 0.016 Anonymous funding: 0.717
