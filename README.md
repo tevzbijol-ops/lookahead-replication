@@ -2,7 +2,7 @@
 
 Replication of the XGBoost detector from **LookAhead** (Ren et al., *Proceedings of the ACM on Software Engineering*, FSE 2025, [arXiv:2401.07261](https://arxiv.org/abs/2401.07261)), plus one experiment: can an **unsupervised Isolation Forest**, trained only on normal contracts and never shown a labelled attack, do the same job?
 
-Part of my TKS Innovate Focus on AI × blockchain security. Build write-up (Medium, draft): coming soon. Learn article: [Can Unsupervised Anomaly Detection Flag Flash-Loan Oracle Attacks Before They Execute?](https://medium.com/@tevz.bijol/can-unsupervised-anomaly-detection-flag-flash-loan-oracle-attacks-before-they-execute-ff9bd0548b1a)
+Part of my TKS Innovate Focus on AI × blockchain security. Build write-up: [I Rebuilt an AI That Spots Crypto Heists Before They Happen](https://medium.com/@tevz.bijol/i-rebuilt-an-ai-that-spots-crypto-heists-before-they-happen-then-i-took-away-its-answers-d792f46a5964). Learn article: [Can Unsupervised Anomaly Detection Flag Flash-Loan Oracle Attacks Before They Execute?](https://medium.com/@tevz.bijol/can-unsupervised-anomaly-detection-flag-flash-loan-oracle-attacks-before-they-execute-ff9bd0548b1a)
 
 ## Results (chronological split: oldest 80 % train, newest 20 % test)
 
